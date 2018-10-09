@@ -62,5 +62,13 @@ Table of Contents
    :glob:
 
    Introduction/Index
-   NextSteps/Index
+   Preparation/Index
+   BasicSetup/Index
+   FrontendPlugin/Index
+   FrontendView/Index
+   FrontendAddListAction/Index
+   Translations/Index
+   ModelAndRepository/Index
+   Composer/Index
+   Documentation/Index
    Targets

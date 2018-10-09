@@ -20,5 +20,4 @@ About
 Prerequisites
 ^^^^^^^^^^^^^
 
-.. What knowledge and experience does the reader need to work through this
-   tutorial?
+.. What knowledge and experience does the reader need to work through this tutorial?
